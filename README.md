@@ -10,5 +10,4 @@ The following tasks were done to meet these requirements:
 
 Created prompts using javascript for user to choose character length Created prompts using javascript for user to choose
 which characters they would like to include in their password: uppercase, lowercase, numbers, and/or special characters
-Created a randomizer based on user criteria to generate a password that matches the given criteria Utilized bootstrap
-for a clean interface that is responsive on all devices Used CSS to create a clean, unique page
+Created a randomizer based on user criteria to generate a password that matches the given criteria
