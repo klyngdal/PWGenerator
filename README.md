@@ -8,6 +8,9 @@ including length and character usage. The page has a clean, easy userface and is
 
 The following tasks were done to meet these requirements:
 
-Created prompts using javascript for user to choose character length Created prompts using javascript for user to choose
-which characters they would like to include in their password: uppercase, lowercase, numbers, and/or special characters
+Created prompts using javascript for user to choose character length
+
+Created prompts using javascript for user to choosewhich characters they would like to include in their password:
+uppercase, lowercase, numbers, and/or special characters
+
 Created a randomizer based on user criteria to generate a password that matches the given criteria
